@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: "Бестиарий"
       link: /lore/bestiary/
+    - theme: alt
+      text: "🎮 Играть"
+      link: https://reppatola.github.io/strategic-survival-3d/
 
 features:
   - title: "📖 Сценарий"
@@ -39,3 +42,9 @@ features:
 1. [Premise](./lore/premise.md) — 3 предложения, весь смысл игры.
 2. [Мир](./lore/world.md) — где и когда.
 3. [Бестиарий](./lore/bestiary/) — откуда взялись зомби.
+
+## 🎮 Сама игра
+
+**[Открыть игру →](https://reppatola.github.io/strategic-survival-3d/)**
+
+Это вики — история мира. Если хочешь поиграть — [жми сюда](https://reppatola.github.io/strategic-survival-3d/).
