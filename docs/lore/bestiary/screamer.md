@@ -1,6 +1,5 @@
 # Screamer
 
-![Концепт](/concepts/zombies/screamer.png)
 
 ## Откуда
 

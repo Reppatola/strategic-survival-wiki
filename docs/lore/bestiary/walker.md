@@ -1,6 +1,5 @@
 # Walker
 
-![Концепт](/concepts/zombies/walker.png)
 
 ## Откуда
 

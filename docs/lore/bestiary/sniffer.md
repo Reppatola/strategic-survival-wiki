@@ -1,6 +1,5 @@
 # Sniffer
 
-![Концепт](/concepts/zombies/sniffer.png)
 
 ## Откуда
 

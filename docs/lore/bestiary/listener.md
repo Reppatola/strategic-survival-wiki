@@ -1,6 +1,5 @@
 # Listener
 
-![Концепт](/concepts/zombies/listener.png)
 
 ## Откуда
 
