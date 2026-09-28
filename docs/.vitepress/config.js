@@ -18,25 +18,34 @@ export default defineConfig({
 
         sidebar: [
             {
-                text: '📖 Лор',
+                text: '📖 Основы',
                 items: [
                     { text: 'Premise', link: '/lore/premise' },
                     { text: 'Мир', link: '/lore/world' },
                     { text: 'Хроника', link: '/lore/timeline' },
-                    { text: 'Фракции', link: '/lore/factions' },
-                    { text: 'Сюжет', link: '/lore/story' },
-                    { text: 'Локации', link: '/lore/levels' },
                     { text: 'Словарь', link: '/lore/glossary' },
                 ],
             },
             {
-                text: '🧟 Бестиарий',
+                text: '🔊 Системы',
                 items: [
-                    { text: 'Обзор', link: '/lore/bestiary/' },
-                    { text: 'Walker', link: '/lore/bestiary/walker' },
-                    { text: 'Sniffer', link: '/lore/bestiary/sniffer' },
-                    { text: 'Listener', link: '/lore/bestiary/listener' },
-                    { text: 'Screamer', link: '/lore/bestiary/screamer' },
+                    { text: 'Шум', link: '/lore/noise' },
+                ],
+            },
+            {
+                text: '🧟 Зомби',
+                items: [
+                    { text: 'Экосистема', link: '/lore/zombies' },
+                    { text: 'Обычный', link: '/lore/bestiary/walker' },
+                    { text: 'Слухач', link: '/lore/bestiary/listener' },
+                    { text: 'Нюхач', link: '/lore/bestiary/sniffer' },
+                    { text: 'Крикун', link: '/lore/bestiary/screamer' },
+                ],
+            },
+            {
+                text: '🏛️ Фракции',
+                items: [
+                    { text: 'Обзор', link: '/lore/factions' },
                 ],
             },
             {
