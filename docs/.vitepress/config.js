@@ -11,8 +11,9 @@ export default defineConfig({
 
         nav: [
             { text: 'Главная', link: '/' },
-            { text: 'Хроника', link: '/lore/timeline' },
-            { text: 'Бестиарий', link: '/lore/bestiary/' },
+            { text: 'Мир', link: '/lore/world' },
+            { text: 'Зомби', link: '/lore/zombies' },
+            { text: 'Фракции', link: '/lore/factions' },
             { text: 'Концепты', link: '/concepts/' },
         ],
 
@@ -23,6 +24,7 @@ export default defineConfig({
                     { text: 'Premise', link: '/lore/premise' },
                     { text: 'Мир', link: '/lore/world' },
                     { text: 'Хроника', link: '/lore/timeline' },
+                    { text: 'Философия', link: '/lore/philosophy' },
                     { text: 'Словарь', link: '/lore/glossary' },
                 ],
             },
@@ -30,6 +32,8 @@ export default defineConfig({
                 text: '🔊 Системы',
                 items: [
                     { text: 'Шум', link: '/lore/noise' },
+                    { text: 'Живой мир', link: '/lore/simulation' },
+                    { text: 'Прокачка', link: '/lore/progression' },
                 ],
             },
             {
@@ -49,15 +53,22 @@ export default defineConfig({
                 ],
             },
             {
+                text: '🏙️ Мир игрока',
+                items: [
+                    { text: 'Города и базы', link: '/lore/cities' },
+                ],
+            },
+            {
                 text: '👤 Персонажи',
                 items: [
                     { text: 'Игрок', link: '/lore/characters/player' },
                 ],
             },
             {
-                text: '🎨 Концепты',
+                text: '🛠️ Разработка',
                 items: [
-                    { text: 'Обзор', link: '/concepts/' },
+                    { text: 'Открытые вопросы', link: '/lore/open-questions' },
+                    { text: 'Концепты', link: '/concepts/' },
                 ],
             },
         ],
